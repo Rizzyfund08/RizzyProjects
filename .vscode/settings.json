@@ -1,4 +1,5 @@
 {
     "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 300
+    "files.autoSaveDelay": 300,
+    "window.zoomPerWindow": true
 }
